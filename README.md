@@ -4,7 +4,7 @@ The BLAS1 (Basic Linear Algebra Subprograms) routine **xSCAL** scales a vector b
 Install Halide from source or use the binaries (https://github.com/halide/Halide/blob/master/README.md).
 ## **2. Build**
 2.1. Clone this repo
-     git clone
+     > git clone
 2.2. Go to the repository using cd
 2.3. Run the make command to build the files
      make halidePath="/home/nour/Halide/"
