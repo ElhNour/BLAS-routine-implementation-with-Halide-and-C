@@ -6,7 +6,7 @@ Install Halide from source or use the binaries (https://github.com/halide/Halide
 2.1. Clone this repo using git clone\
 2.2. Go to the repository using cd\
 2.3. Run the make command to build the files\
-     make halidePath="/home/nour/Halide/"
+     ```make halidePath="/home/nour/Halide/"```
 ## **3. Arguments**
 Arguments are the same for both Halide program and C program.
 - n: the vector length
@@ -15,7 +15,7 @@ Arguments are the same for both Halide program and C program.
 ## **4. Execution**
 ### **4.1. C program:**
 - with default values : bin/c
-- with arguments : bin/c n a incx
+- with arguments : bin/c n a incx\
 for example : bin/c 50 8 3
 ### **4.2. Halide program:**
 - Set the Halide path variable:halidePath="/home/nour/Halide/"\
