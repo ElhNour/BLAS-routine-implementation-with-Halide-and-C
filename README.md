@@ -1,8 +1,8 @@
 # BLAS-routine-implementation-with-Halide-and-C
 The BLAS1 (Basic Linear Algebra Subprograms) routine **xSCAL** scales a vector by a constant, and this is an implementation of it in Halide and C.<br/>
 # **1. Requirements**
-Install Halide from source or use the binaries ().
-2. Build
+Install Halide from source or use the binaries (https://github.com/halide/Halide/blob/master/README.md).
+## **2. Build**
 2.1. Clone this repo
     git clone
 2.2. Go to the0 repository using cd
